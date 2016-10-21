@@ -1,0 +1,9 @@
+<templateSet group="React Templates ">
+  <template name="rc" value="import React, {Component} from 'react';&#10;&#10;class $NAME$ extends Component {&#10;    constructor() {&#10;        super();&#10;    }&#10;    &#10;    render() {&#10;        return (&#10;            $END$&#10;        )&#10;    }&#10;}" description="React ES6 component" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
