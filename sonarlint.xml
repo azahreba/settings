@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://cgbs2020build01:9000/" />
+          <token />
+          <option name="name" value="COMMISSION" />
+          <option name="login" value="Artur.Zahreba" />
+          <password>dfccdfdbdfc9df97dfc8dfd3df97dfc3dfcfdfdfdfccdfc2</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
