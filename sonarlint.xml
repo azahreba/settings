@@ -5,8 +5,8 @@
         <SonarQubeServer>
           <option name="hostUrl" value="http://cgbs2020build01:9000/" />
           <option name="name" value="COMMISSION" />
-          <option name="login" value="Artur.Zahreba" />
-          <password>dfccdfdbdfc9df97dfc8dfd3df97dfc3dfcfdfdfdfccdfc2</password>
+          <option name="login" value="admin" />
+          <password>dfcbdfcedfc7dfc3dfc4</password>
         </SonarQubeServer>
       </list>
     </option>
