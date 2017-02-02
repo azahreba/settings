@@ -4,12 +4,12 @@
       <HostingBean>
         <baseRestUri>http://stash.cargarantie.com:7990/rest/api/latest/</baseRestUri>
         <baseUri>http://stash.cargarantie.com:7990/</baseUri>
-        <id>c0f4c916-8e61-45f7-a282-65ac08775ee3</id>
+        <id>389dd0fd-f1a3-4f9d-9d56-03eae82adbca</id>
         <type>SERVER</type>
       </HostingBean>
     </hostings>
     <accessMap>
-      <entry value="c0f4c916-8e61-45f7-a282-65ac08775ee3">
+      <entry value="389dd0fd-f1a3-4f9d-9d56-03eae82adbca">
         <HostingAccessBean>
           <scheme>http</scheme>
           <host>stash.cargarantie.com</host>
