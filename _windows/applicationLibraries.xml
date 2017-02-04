@@ -156,6 +156,28 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="react-native-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react-native_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react-native_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="react-native-fs-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react-native-fs_index.d.ts" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_react-native-fs_index.d.ts" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="react-router-DefinitelyTyped" type="javaScript">
       <properties>
         <sourceFilesUrls>

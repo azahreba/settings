@@ -31,12 +31,12 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/katsgeorgeek/CarPool" />
+          <option name="url" value="https://github.com/katsgeorgeek/CarPool.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
+    <option name="cloneParentDir" value="C:\" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\TAA\estore-app\TAA\Source\WK.TAA\WK.TAA.Website" />
