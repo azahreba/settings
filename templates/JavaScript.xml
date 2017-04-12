@@ -3,15 +3,15 @@
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FROM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="cl" value="console.log($IT$);" description="Console Log" toReformat="false" toShortenFQNames="true">
     <variable name="IT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="TypeScript" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
